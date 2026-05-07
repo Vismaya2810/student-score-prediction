@@ -25,7 +25,7 @@ Open the norebook in Google Colab -> Upload the csv file of the dataset download
 
 ## Outputs
 Prediction:
-![Prediction][prediction.png]
+![Prediction](prediction.png)
 Regression:
-![Regression][regression.png]
+![Regression](regression.png)
 
