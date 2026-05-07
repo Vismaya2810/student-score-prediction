@@ -24,8 +24,8 @@ b is the intercept (the value of y when X is zero)
 Open the norebook in Google Colab -> Upload the csv file of the dataset downloaded from the kaggle -> run the cell sequentially
 
 ## Outputs
-Prediction:
-![Prediction](prediction.png)
-Regression:
+### Prediction:
+![Prediction](output.png)
+### Regression:
 ![Regression](regression.png)
 
